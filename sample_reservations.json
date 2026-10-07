@@ -1,0 +1,9 @@
+[
+  {"reservationId": "RES-001", "customerName": "Sarah Johnson",  "phone": "+15550000001", "reservationTime": "6:30 PM", "partySize": 2, "restaurantName": "ABC"},
+  {"reservationId": "RES-002", "customerName": "Michael Chen",   "email": "Michael.Chen@gmail.com", "reservationTime": "7:00 PM", "partySize": 4, "restaurantName": "ABC"},
+  {"reservationId": "RES-003", "customerName": "Priya Shah",     "email": "pShah@yahoo.com", "reservationTime": "7:30 PM", "partySize": 4, "restaurantName": "ABC"},
+  {"reservationId": "RES-004", "customerName": "David Miller",   "phone": "+15550000004", "reservationTime": "7:45 PM", "partySize": 2, "restaurantName": "ABC"},
+  {"reservationId": "RES-005", "customerName": "Emily Davis",    "phone": "+15550000005", "reservationTime": "8:00 PM", "partySize": 4, "restaurantName": "ABC"},
+  {"reservationId": "RES-006", "customerName": "James Wilson",   "phone": "+15550000006", "reservationTime": "8:30 PM", "partySize": 6, "restaurantName": "ABC"},
+  {"reservationId": "RES-007", "customerName": "Sophia Martinez","phone": "+15550000007", "reservationTime": "9:00 PM", "partySize": 2, "restaurantName": "ABC"}
+]
